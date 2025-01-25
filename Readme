@@ -1,0 +1,2 @@
+cd auth and run npm start
+on the root run docker compose up
